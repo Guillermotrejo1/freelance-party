@@ -1,0 +1,19 @@
+.nav__container {
+    width: 100%;
+    max-width: 1280px;
+    background-color: aqua;
+    margin: 0 auto;
+    padding: 28px;
+    border-radius: 9999px;
+}
+
+.nav__links {
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav__list{
+    list-style-type: none;
+    font-size: 24px;
+    font-weight: 700;
+}
